@@ -192,3 +192,6 @@ UPDATE_PACKAGE "luci-app-athena-led" "haipengno1/luci-app-athena-led" "main"
 #UPDATE_PACKAGE "luci-app-athena-led" "NONGFAH/luci-app-athena-led" "main"
 
 #-------------------2025.04.12-测试-----------------#
+#------------------20250505测试---------------------
+#全能推送PushBot----OK
+UPDATE_PACKAGE "luci-app-turboacc" "xm0625/luci-app-turboacc" "master"
