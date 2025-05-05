@@ -403,6 +403,7 @@ CONFIG_PACKAGE_luci-proto-bonding=y
 CONFIG_PACKAGE_luci-proto-relay=y
 #--------------------------------------20250504增加passwall---------------
 CONFIG_PACKAGE_luci-app-passwall=y
+CONFIG_PACKAGE_passwall=y
 CONFIG_PACKAGE_luci-app-passwall_Nftables_Transparent_Proxy=y
 CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Brook=y
 CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Hysteria=y
@@ -418,6 +419,7 @@ CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Xray_Plugin=y
 
 #----------------------20250504增加passwall2----------
 CONFIG_PACKAGE_luci-app-passwall2=y
+CONFIG_PACKAGE_passwall2=y
 # Configuration
 CONFIG_PACKAGE_luci-app-passwall2_Nftables_Transparent_Proxy=y
 CONFIG_PACKAGE_luci-app-passwall2_INCLUDE_Brook=y
