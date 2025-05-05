@@ -23,7 +23,7 @@ CONFIG_PACKAGE_luci-app-filetransfer=n
 CONFIG_PACKAGE_luci-app-unblockmusic=n
 CONFIG_PACKAGE_luci-app-accesscontrol=n
 CONFIG_PACKAGE_luci-app-fileassistant=n
-#-------------------------------------------20250505--------------------------------------
+#-------------------------------------------20250505增加--------------------------------------
 CONFIG_PACKAGE_luci-app-socat=y
 CONFIG_PACKAGE_luci-app-aria2=y
 CONFIG_PACKAGE_luci-app-diskman=y
